@@ -21,8 +21,8 @@
 
 ## 📚 핸드북 구성
 
- 1. [Javascript](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md)
- 2. [React](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/2.%20React/react.md)
+ 1. [Javascript](https://github.com/eeeyooon/frontend-interview-handbook?tab=readme-ov-file#1%EF%B8%8F%E2%83%A3-javascript)
+ 2. [React](https://github.com/eeeyooon/frontend-interview-handbook?tab=readme-ov-file#2%EF%B8%8F%E2%83%A3-react)
  3. HTML & CSS
  4. FE 관련 지식 (Web, 통신)
  5. CS
