@@ -5,13 +5,13 @@
 
 <br/>
 
-- **프로그래밍**
-- **Javascript**
-- **데이터 타입**
-- **변수**
-- **변수 선언**
-- **스코프**
-- **실행 컨텍스트**
+- [**프로그래밍**](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+- [**Javascript**](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#javascript)
+- [**데이터 타입**](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85)
+- [**변수**](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#%EB%B3%80%EC%88%98)
+- [**변수 선언**](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8)
+- [**스코프**](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#%EC%8A%A4%EC%BD%94%ED%94%84)
+- [**실행 컨텍스트**](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
 - **클로저**
 - **호이스팅**
 - **this**
@@ -35,7 +35,7 @@
 
 ---
 
-[⏫](https://github.com/eeeyooon/frontend-interview-handbook/edit/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
+[⏫](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
 
 <br/>
 
@@ -178,7 +178,7 @@ if (!null) {
 <br/>
 
 
-[⏫](https://github.com/eeeyooon/frontend-interview-handbook/edit/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
+[⏫](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
 
 <br/>
 
@@ -282,7 +282,7 @@ if (!null) {
 
 
 
-[⏫](https://github.com/eeeyooon/frontend-interview-handbook/edit/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
+[⏫](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
 
 <br/>
 
@@ -406,7 +406,7 @@ ES6 이후, 실행 컨텍스트는 함수 선언, 블록문, `try/catch` 문과 
 <br/>
 
 
-[⏫](https://github.com/eeeyooon/frontend-interview-handbook/edit/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
+[⏫](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
 
 
 ## 클로저
@@ -469,7 +469,7 @@ ES6 이후, 실행 컨텍스트는 함수 선언, 블록문, `try/catch` 문과 
 <br/>
 
 
-[⏫](https://github.com/eeeyooon/frontend-interview-handbook/edit/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
+[⏫](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
 
 ## 배열
 - Javascript 배열의 특징을 말해주세요.
@@ -560,7 +560,7 @@ ES6 이후, 실행 컨텍스트는 함수 선언, 블록문, `try/catch` 문과 
 
 <br/>
 
-[⏫](https://github.com/eeeyooon/frontend-interview-handbook/edit/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
+[⏫](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md#javascript-%EB%A9%B4%EC%A0%91-%EC%A7%88%EB%AC%B8-%EC%A0%95%EB%A6%AC)
 
 <br/>
 
