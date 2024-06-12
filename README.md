@@ -39,6 +39,8 @@
 
 ## [1️⃣ Javascript](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/1.%20Javascript/javascript.md)
 
+> 챕터 제목을 클릭하면 해당 챕터에 해당하는 질문과 답변을 확인할 수 있습니다.
+
 <br/>
 
 - **프로그래밍**
@@ -172,6 +174,7 @@
 
 
 ## [2️⃣ React](https://github.com/eeeyooon/frontend-interview-handbook/blob/main/2.%20React/react.md)
+> 챕터 제목을 클릭하면 해당 챕터에 해당하는 질문과 답변을 확인할 수 있습니다.
 
 <br/>
 
